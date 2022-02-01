@@ -3,6 +3,12 @@ Porém Kogu está tendo muita dificuldade para encontrar as esferas, por isso Xe
 decidiu abrir uma exceção e aceitou ser invocado caso Kogu encontre todas as esferas cujo o número de divisores da quantidade de estrelas da esfera sejam par.
 Por exemplo se existem sete esferas, Kogu não precisaria encontrar as esferas de uma e quatro estrelas, 
 pois elas tem uma quantidade ímpar de divisores, então ele só precisa pegar 5 esferas para invocar Xenlongão.
+    
+Dado de entrada:
+1
+7
+Saída esperada:
+5
 
 
 
